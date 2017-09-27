@@ -11,7 +11,7 @@ public class BookSysConstants {
 	/** 空白字符串 */
 	public static final String EMPTY = "";
 
-	/** 时间格式 : yyyyMMdd */
+	/** 时间格式 : yyyyMMdd*/
 	public static final String FORMAT_PATTEN_YYYYMMDD = "yyyyMMdd";
 
 	/** 时间格式 : yyyy/MM/dd */
